@@ -1,5 +1,0 @@
-//hello
-
-public statik void moin() {
-
-}
